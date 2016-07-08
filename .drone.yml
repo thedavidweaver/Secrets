@@ -1,0 +1,4 @@
+deploy:
+    test:
+        app: test
+        token: $$TEST_TOKEN
