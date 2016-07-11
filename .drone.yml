@@ -1,4 +1,2 @@
-deploy:
-    test:
-        app: test
-        token: $$TEST_TOKEN
+build:
+    - echo $$TEST_TOKEN
